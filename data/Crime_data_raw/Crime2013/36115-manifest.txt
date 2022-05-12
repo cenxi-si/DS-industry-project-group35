@@ -1,0 +1,53 @@
+File Manifest for ICPSR 36115
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arrests by Age, Sex, and Race, United States, 2013.
+ICPSR36115-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-10-07.
+http://doi.org/10.3886/ICPSR36115.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36115-descriptioncitation.pdf       -       -         -       2018-05-23  -
+
+    36115-related_literature.txt        -       -         -       daily       -
+
+    36115-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+United States, 2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36115-0001-Codebook.pdf             -       -         -       2015-10-07  3bc3f11583ca68ab2077f96a9a11478f
+
+    36115-0001-Data.dta                 -       1,401,525 89      2015-10-07  887b36a00d8e002c81fc93515266e0ce
+
+    36115-0001-Data.rda                 -       1,401,525 89      2015-10-07  ddd39415e4e4df024c2128a312ea4eaa
+
+    36115-0001-Data.sav                 -       1,401,525 89      2015-10-07  7e6993a8d7647d05b4a66d1789b61bcd
+
+    36115-0001-Data.stc                 -       1,401,525 89      2015-10-07  07057fa4baa2a5184861c693eac0d62f
+
+    36115-0001-Data.tsv                 -       1,401,525 89      2015-10-07  b28fc691959de8399816a88d5a06ff91
+
+    36115-0001-Data.txt                 414     1,401,525 89      2015-10-07  c27c97c5532e1513b77cfb16e483e965
+
+    36115-0001-Setup.dct                -       -         -       2015-10-07  b1f48ca84cb807e7764b7164b83d53e7
+
+    36115-0001-Setup.do                 -       -         -       2015-10-07  2b67b9f368a1527c292fba906f34461f
+
+    36115-0001-Setup.sas                -       -         -       2015-10-07  e48bae469260fecb56e5848648b8e63d
+
+    36115-0001-Setup.sps                -       -         -       2015-10-07  d4717ca64adcb4e7c3e44ae15500f1d5
+
+    36115-0001-Supplemental_syntax.do   -       -         -       2015-10-07  2cee68506ed42606a3b441dfbefa5bd9
+
+    36115-0001-Supplemental_syntax.sas  -       -         -       2015-10-07  97dfacf3c7138352b057c8e54057b38b
+
