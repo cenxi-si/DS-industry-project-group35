@@ -1,0 +1,53 @@
+File Manifest for ICPSR 35017
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arrests by Age, Sex, and Race, United States, 2012.
+ICPSR35017-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2014-04-16.
+http://doi.org/10.3886/ICPSR35017.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35017-descriptioncitation.pdf       -       -         -       2018-05-23  -
+
+    35017-related_literature.txt        -       -         -       daily       -
+
+    35017-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+United States, 2012
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35017-0001-Codebook.pdf             -       -         -       2014-04-16  34d01d2c25188576752d5320b3fa0868
+
+    35017-0001-Data.dta                 -       1,432,161 89      2014-04-16  3791e77a75bade2591fc65c7bbe7d0e1
+
+    35017-0001-Data.rda                 -       1,432,161 89      2014-04-16  16f90034569b3626a0ca4f04f2980035
+
+    35017-0001-Data.sav                 -       1,432,161 89      2014-04-16  ccd5794d613ff90866cffcb1c2eed9e1
+
+    35017-0001-Data.stc                 -       1,432,161 89      2014-04-16  fe7bd4247f3787b5a463d7ac81871f79
+
+    35017-0001-Data.tsv                 -       1,432,161 89      2014-04-16  f8f9fda8ea36a54d545c6ea527067125
+
+    35017-0001-Data.txt                 414     1,432,161 89      2014-04-16  2f30808346d84fd6a883009fa9e65be3
+
+    35017-0001-Setup.dct                -       -         -       2014-04-16  76e8ac0e5f8483067f1433fb8d25397f
+
+    35017-0001-Setup.do                 -       -         -       2014-04-16  0e8dc7e9f211ddb4f239291d89183d42
+
+    35017-0001-Setup.sas                -       -         -       2014-04-16  dd42d12f0dc5d5f8ed930b96427adbae
+
+    35017-0001-Setup.sps                -       -         -       2014-04-16  7a78c72111de101a28bfae2ab871cfd9
+
+    35017-0001-Supplemental_syntax.do   -       -         -       2014-04-16  f3e7c608c54c9f605b02a8c022862cfc
+
+    35017-0001-Supplemental_syntax.sas  -       -         -       2014-04-16  cb8cd38b31776b7d9edd7e76174e8321
+
