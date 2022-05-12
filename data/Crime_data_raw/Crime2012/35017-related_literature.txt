@@ -1,0 +1,52 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race, United
+States, 2012
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 35017. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Beck, Brenden, "Broken windows in the cul-de-sac? Race/ethnicity and
+quality-of-life policing in the changing suburbs." Crime and Delinquency.
+in press 2017,. DOI: 10.1177/0011128717739568
+
+2. Bindler, Anna, "Still Unemployed, What Next? Crime and Unemployment
+Duration." Job Market Paper, Nov 14, 2014..
+Full text PDF: https://www.ucl.ac.uk/economics/job-market/bindler/bindler-paper17nov14.pdf
+
+3. Brown, Ryan P.; Baughman, Kiersten; Carvallo, Mauricio, "Culture,
+masculine honor, and violence toward women." Personality and Social
+Psychology Bulletin. 2017, 1 - 12. DOI: 10.1177/0146167217744195
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29241416
+
+4. Bulman, George, "Law Enforcement Leaders and the Racial Composition of
+Arrests: Evidence from Overlapping Jurisdictions." Santa Cruz, CA:
+University of California, Santa Cruz, Aug 2017.
+Full text PDF: https://people.ucsc.edu/~gbulman/lawenforcement_2017.pdf
+
+5. Crouch, Randall, "Essays on Drug and Alcohol Policies in the United
+States." Dissertation, University of Houston, 2015.
+Full text PDF: https://people.ucsc.edu/~gbulman/lawenforcement_2017.pdf
+
+6. Federal Bureau of Investigation, "Crime in the United States 2012."
+Updated 2013,.
+Full text: http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/cius_home
+
+7. Przeszlowski, Kimberly S.; Crichlow, Vaughn J., "An exploratory
+assessment of community-oriented policing implementation, social
+disorganization and crime in America." Social Sciences. Mar 2018, 7, (3),.
+DOI: 10.3390/socsci7030035
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+8. Selby, Rebekah J., "Essays on health and development economics."
+Dissertation, University of Oregon, 2017.
+Abstract: http://hdl.handle.net/1794/22678
+Full text PDF: https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/22678/Selby_oregon_0171A_11875.pdf?sequence=1&isAllowed=y
