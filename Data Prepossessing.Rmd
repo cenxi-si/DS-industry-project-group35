@@ -1,0 +1,28 @@
+---
+title: "Data Prepossessing"
+author: "Cenxi Si"
+date: "5/13/2022"
+output: pdf_document
+---
+
+```{r}
+filename <- file.choose()
+crime <- readRDS(filename)
+```
+
+```{r}
+library(dplyr)
+crime1 <- filter(crime, OFFENSE=='02 ' | OFFENSE=='20 ' | OFFENSE =='17 ') 
+write.csv(crime1, file="./data/crime.csv")
+```
+
+
+```{r}
+filename <- file.choose()
+twitter <- readRDS(filename)
+```
+
+```{r}
+write.csv(twitter, file="./data/twitter_example.csv")
+```
+
