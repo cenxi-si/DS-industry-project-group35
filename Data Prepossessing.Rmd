@@ -20,9 +20,17 @@ write.csv(crime1, file="./data/crime.csv")
 ```{r}
 filename <- file.choose()
 twitter <- readRDS(filename)
+write.csv(twitter, file="./data/twitter_example.csv")
 ```
 
 ```{r}
-write.csv(twitter, file="./data/twitter_example.csv")
+crime1
+```
+
+
+```{r}
+filename <- file.choose()
+delineation <- readRDS(filename)
+delineation
 ```
 
