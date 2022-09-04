@@ -34,3 +34,14 @@ delineation <- readRDS(filename)
 delineation
 ```
 
+# Crime
+```{r}
+filename <- file.choose()
+crime_2020 <- readRDS(filename)
+```
+
+```{r}
+(crime_2020 = crime_2020[,c('agency_name', 'state_abb', 'year', 'month', 'population', 'actual_rape_total')])
+write.csv(crime_2020, file="./data/crime/crime_2020.csv")
+```
+

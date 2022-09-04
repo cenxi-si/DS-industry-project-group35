@@ -1,0 +1,1 @@
+load("/Users/sicenxi/Documents/GitHub/DS-industry-project-group35/data/crime/ucr_offenses_known_monthly_1960_2020_rds/offenses_known_monthly_2020.rds")
