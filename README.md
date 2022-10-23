@@ -18,8 +18,11 @@ To make sure everyone is familiar with the procedure of building CCM model, each
 
 
 ## Files
-- Final Approach: final_approach.ipynb
-- Alternative Approaches: Alternative_Approaches Folder
-- Final Prediction: NN_results.csv
-- Data sets: data Folder
-- Meet minutes: 3 meeting minutes are in the Meeting Minutes Folder
+- data: all related data are in the data folder
+- data_preprocessing: it includes the codes for preliminary data cleaning and preprocessing
+- CCM_Alcohol.ipynb: it is the notebook for alcohol establishment variable under CCM
+- CCM_cost_of_living.ipynb: it is the notebook for cost of living variable under CCM
+- CCM_MisogynyTweet_vs_RapeCount.ipynb: it is the notebook for misogynist tweets variable under CCM
+- CCM_Temperature.ipynb: it is the notebook for temperature variable under CCM
+- Meeting_minutes: all meeting minutes in semester 1 and 2 are included here
+- drafts: this folder is for all the useless information
